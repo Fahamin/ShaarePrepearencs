@@ -69,7 +69,14 @@
             android:layout_height="wrap_content"
             tools:ignore="OnClick" />
 
-
     </LinearLayout>
 
+   <!-- <CheckBox
+        android:id="@+id/checkboxID"
+        android:onClick="Get"
+        android:text="set password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+-->
 </LinearLayout>
